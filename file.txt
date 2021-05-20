@@ -1,2 +1,4 @@
 pacman
-Gotita
+triangulo
+rombo
+
